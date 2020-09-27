@@ -4,5 +4,5 @@ pink
 orange
 blue
 green
-red
 yellow
+red
