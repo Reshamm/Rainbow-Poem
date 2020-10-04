@@ -7,3 +7,4 @@ green
 unicorn
 yellow
 red
+sky color
